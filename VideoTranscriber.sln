@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoTranscriber", "VideoTranscriber\VideoTranscriber.csproj", "{65EEFB2F-0747-4D5A-90B3-EE0861D2D70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoTranscriber.Test", "VideoTranscriber.Test\VideoTranscriber.Test.csproj", "{12EBADBD-FF21-4D17-945C-55DD61B9E3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EEFB2F-0747-4D5A-90B3-EE0861D2D70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EEFB2F-0747-4D5A-90B3-EE0861D2D70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EEFB2F-0747-4D5A-90B3-EE0861D2D70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EEFB2F-0747-4D5A-90B3-EE0861D2D70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12EBADBD-FF21-4D17-945C-55DD61B9E3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EBADBD-FF21-4D17-945C-55DD61B9E3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EBADBD-FF21-4D17-945C-55DD61B9E3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EBADBD-FF21-4D17-945C-55DD61B9E3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683EDF55-11BF-4AF5-B254-9BEA54579916}
+	EndGlobalSection
+EndGlobal
